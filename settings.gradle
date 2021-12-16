@@ -1,0 +1,2 @@
+rootProject.name = "CQUPT_Young"
+include ':app'
